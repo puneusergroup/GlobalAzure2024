@@ -31,4 +31,15 @@ Feel free to submit issues for any queries, suggestions for improvements, or add
 - **Location:** MCCIA, S.B. Road, Pune
 - **Event URL:** [Pune Global Azure 2024](https://bit.ly/pug-ga2024)
 
+## List of Sessions and Speakers
+
+- **Need and Importance of Azure Key Vault** - **Speaker: Mahesh Sabnis**
+- **Revisiting Azure Integration Services** - **Speaker: Mayur Tendulkar**
+- **Getting Started with Azure OpenAI and GPT Models** - **Speaker: Mourtaza Moïse Fazlehoussein**
+- **Demystifying Vector DB** - **Speaker: Rakesh Kalange**
+- **APIM: Manage Your Enterprise APIs Like a Boss** - **Speaker: Gaurav Gat**
+- **AI for Developers: Driving Success in the Digital Era** - **Speaker: Vicky Israni**
+- **Azure Kubernetes - Hero Updates!** - **Speaker: Kunal Chandratre**
+- **Azure Container Apps for Microservices** - **Speaker: Shahzad Adil**
+
 We thank everyone who participated and contributed to making Pune Global Azure 2024 a success. Let's continue to grow and thrive in our understanding and application of Azure technologies!
